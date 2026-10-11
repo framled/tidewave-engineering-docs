@@ -1,6 +1,6 @@
 # Plan: Unique username validation
 
-Spec: `tidewave-engineering-docs/_specs/0_validacion-nombre-usuario-unico.md`
+Spec: `tidewave-engineering-docs/_specs/0_unique-username-validation.md`
 
 ## Context
 
